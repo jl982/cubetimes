@@ -1,0 +1,21 @@
+----- JNetCube Best Average for Fri Feb 26 22:04:53 EST 2010 -----
+
+Average: 17.72
+
+Fastest Time: 15.75
+Slowest Time: 22.80
+Standard Deviation: 02.06
+
+Individual Times:
+1)          16.30          F2 D L' U' L U2 D' F2 U2 R' D' R2 F U' L F L' F U L R2 F' U F' U'
+2)          21.52          U F L' U D F' R U' F B U L' U' L' R F2 U' R2 D2 F2 D' L' R' U' B'
+3)          21.33          D U L2 F' R' B' R' D' F2 B2 L2 B' R' F L2 U L2 U' L' B' R' U2 B' L2 R'
+4)          17.10          L2 U D F2 L2 U D2 L2 F2 D' R D' F L2 B' D L2 U2 B2 D R2 F2 R2 U R
+5)          (15.75)          R2 U' F2 B L' U' B2 F L D R2 F2 B' D2 U' R' F2 U2 B2 F' U2 F U D' F
+6)          15.95          U2 B2 F' L2 U2 L' B2 F2 R2 D2 B2 D' B' R' D U' L2 F2 U R2 U2 L R F2 U2
+7)          17.89          L2 U2 D F B R' L2 D B2 R D' R U B2 L' F' R2 L' B2 D' F' L2 F2 L F2
+8)          17.53          L R2 B L U' F2 L' B2 F D' F L2 D R' B R U2 L' R' B' L D2 U F R'
+9)          (22.80)          R D F B' R2 L2 U F2 L2 B2 D2 B' U2 R B2 F R2 D R' F L U' B2 L' F'
+10)          16.98          F' L' R' B' R' F2 U2 D2 F' L2 B2 D L2 B F' L' F L' U L2 R' D2 L' D' B2
+11)          16.87          L B D2 B F L2 D2 R' B L' B F2 U' L2 F' U' L' F2 R F2 L2 F D' U B2
+12)          15.75          F' L D' U B' R2 U' D' R' U D F B2 D B' L2 B U L2 D' U F D' L' D'

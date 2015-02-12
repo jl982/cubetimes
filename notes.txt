@@ -1,0 +1,26 @@
+removed
+2 BEST AVERAGE*
+2 bld
+rm "./091101 - 2x2 7.92.txt"
+
+325 records
+
+adjustments
+  2008-04-30 to 2008-11-16: cube 1
+  2010-12-31 to 2011-01-07: time += 13
+  2011-05-25 to 2011-06-12: time += 13
+
+oh adjustments
+  2011-01-07: time += 13
+
+non adjustments
+  091005 cube: D
+  100918 cube: S
+
+old adjustments
+  2008-05-01 set: 2, 3
+  2008-06-12 set: 2
+  2008-11-29 set: 2
+  2008-12-15 set: 2
+  2008-12-21 set: 2
+  2008-12-24 set: 2

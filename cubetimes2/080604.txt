@@ -1,0 +1,23 @@
+----- JNetCube Session Statistics for Wed Jun 04 23:59:02 CST 2008 -----
+
+Cubes Solved: 12 
+Total Pops: 0 
+Average: 26.87
+
+Fastest Time: 21.37
+Slowest Time: 32.74
+Standard Deviation: 03.29 
+
+Individual Times:
+1)          25.24          L B D F2 R B2 R F B2 D' L' R B' L' F2 U2 L D B2 D' B' R' L D' L'
+2)          26.06          U D R L B' R B2 L2 B' F2 U' B2 D2 L2 F' L2 B U' D F' R2 L F2 U L'
+3)          25.64          R' D2 F2 B' R' U2 F2 B L' D' F2 D' L' F2 R2 F B R2 U2 B' U2 L F' D2 L
+4)          32.74          F2 L D' L2 F2 U B' L R' U' L F D' U' B U' B2 R' B L2 F2 U2 F2 L D
+5)          28.56          B' L D2 L D2 R U2 B2 L F2 L2 D' B' D B2 R2 F B2 R B' F2 U2 L F' B2
+6)          24.12          F' R2 F' B' D2 U B' R F D' R' B' D F2 R D' F' D' L' U2 B' L2 B2 D2 U2
+7)          26.98          L2 B' F L2 F2 U B' L U R2 L' F' D' B R2 B2 D' B2 U2 F L B2 R' F2 L'
+8)          29.50          D B L U2 D' R' F R' U F R' D2 R2 D2 U' B U D' F R' F' R B2 F L
+9)          21.37          U F B2 R' L2 B2 R' U R B2 D L' D2 L2 D L2 R F' D2 F' L' B' F2 L' F2
+10)          31.64          U2 B' F2 U R' U2 B2 F U' B' L2 F2 R' B2 R2 U B' R B2 D B' R' B' D2 F'
+11)          23.84          U B L' U L' F2 U' B2 L2 F2 U L2 D' R' U R L U F L' U2 L U L' R2
+12)          26.73          F' B2 U2 F2 R B' F' U2 R D' B' D B' L' D R' D' F R' F L' U' F' D2 U'

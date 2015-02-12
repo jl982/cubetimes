@@ -1,0 +1,16 @@
+----- JNetCube Session Statistics for Wed Apr 30 19:06:51 CST 2008 -----
+
+Cubes Solved: 5 
+Total Pops: 0 
+Average: 28.21
+
+Fastest Time: 26.02
+Slowest Time: 32.77
+Standard Deviation: 02.78 
+
+Individual Times:
+1)          32.77          L' D L2 B L D B' L F' U2 D' R' B' D' L' D' R' B U' B2 U R2 D R2 F
+2)          26.46          L F B' D2 L2 F' B R2 U' D' B R' D2 B2 L2 R U D R' F' D2 B' F' L' B'
+3)          26.02          R' B' D F R2 U' F R' F2 R F' D' R' U R2 F2 B' D B' F2 L' R B R F
+4)          28.92          B' L' D2 R' F R D U2 R' B' R' D B2 U F L2 B U' F' B U2 B' U' L2 U2
+5)          26.89          L' B' D' L2 U2 L U B2 R2 D U2 R2 D2 F' U2 L D' L2 U' B R2 L2 D R U

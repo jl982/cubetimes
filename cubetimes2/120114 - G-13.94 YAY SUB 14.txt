@@ -1,0 +1,21 @@
+----- JNetCube Best Average for Sat Jan 14 23:05:52 CST 2012 -----
+
+Average: 13.94
+
+Fastest Time: 12.66
+Slowest Time: 16.22
+Standard Deviation: 00.93
+
+Individual Times:
+1)          13.66          F2 D' B' L' F B' R' U B2 R2 F2 D2 R L U R L' D2 R2 F' B U2 F L2 F
+2)          13.97          L B2 U F D' F2 L D2 U B' U D2 F R L' B2 F2 D' L2 F2 R2 D R2 U2 B'
+3)          (16.22)          D' R' D' B D2 R' U2 B' U2 R2 B' L U L U2 B U2 D' F2 B2 L2 U L2 R F2
+4)          12.92          D L' R2 U2 L' D' R D' R2 D2 L2 U2 L2 R D2 U R B' F D2 F' D2 L2 D' L2
+5)          (12.66)          R2 L' B D B U' B' U F' D2 R L2 D' R B R U' B' R' D L F' L' B' D2
+6)          12.77          B2 R2 F2 U' F2 R2 L' D' B2 F2 R F2 B R' F U D' B F D' F U2 R' L2 U2
+7)          15.93          L2 B2 U' L F2 U2 L' R D2 F B' R' U2 L' U L' B L B D2 R F R2 B2 F2
+8)          14.11          D U2 R D B R' L2 F2 B' R L F' U F' B2 D B F L' R D2 L' F2 D R
+9)          14.16          D R B2 R L D' L2 D' R U R L' F' D L F2 L' B2 L' B2 F' D F2 D' L'
+10)          14.18          L U R U F R' B F L' B2 F' U B U R' U2 D2 R D R' U2 B2 U2 R' L
+11)          14.62          F B2 U' R2 U' B2 F R B2 R2 D F' B D F D' R' D2 B2 R2 D2 U' F B2 D'
+12)          13.04          R U B R' U' R' L' U2 D R2 D2 B F' U2 B' D2 F' U F2 R2 F2 R2 D2 U F2

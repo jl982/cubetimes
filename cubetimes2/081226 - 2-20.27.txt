@@ -1,0 +1,21 @@
+----- JNetCube Best Average for Sat Dec 27 00:48:19 EST 2008 -----
+
+Average: 20.27
+
+Fastest Time: 17.17
+Slowest Time: 27.56
+Standard Deviation: 01.82
+
+Individual Times:
+1)          19.76          R' F2 R2 U2 B' R B' D' L' D' F' D' F2 B2 D F' U' L' D' F' R' L2 B' D B2
+2)          21.20          B' F' D2 L F2 L F' U D2 L B R2 L2 U2 B2 U B' R L2 D2 R B2 U' D L'
+3)          18.77          L' B2 R2 U' R B D L D' U F2 D L D2 L2 R' D B' R D' L2 B' L2 R D2
+4)          22.16          B2 F2 D F D F2 B2 R' D' L D F' R2 B U D2 F D' B' D U2 F D U R2
+5)          (27.56)          U' B' L B L R D B2 F2 U2 F2 B2 U2 D' R' D' R' L F' D F' L2 U' B2 L
+6)          23.37          B F2 D R B2 L' D2 B D' B U F L U D2 B2 U' R B2 U F D L F2 L
+7)          19.00          B2 U R L F2 D' R2 U' B' U F' L' B2 D' L2 B U' F L' B D' U' L F L'
+8)          (17.17)          D' L2 B U' L F' B' D U2 L2 U2 R' U F' L2 R2 D L2 F U' F2 D2 U2 R B
+9)          20.00          D' B' R U' D B2 D U2 B' R' U D' F B2 R D L2 B2 U2 R2 D' F' B R' U'
+10)          21.98          R' U F' B' R2 L B' F' L2 R' B2 F' L' F R2 D2 R L2 D' B R F R' F2 U2
+11)          18.09          U2 D' F2 R' D' B2 L B' U' L2 U' F R L' D R2 F' L' R D2 U L F2 B2 D'
+12)          18.33          B2 D' U2 F R2 L B D U2 F R' L' U L2 D2 R' L2 B F2 L' R' D U' L R'

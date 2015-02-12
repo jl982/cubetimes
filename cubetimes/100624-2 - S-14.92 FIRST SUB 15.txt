@@ -1,0 +1,21 @@
+----- JNetCube Best Average for Thu Jun 24 18:38:05 EDT 2010 -----
+
+Average: 14.92
+
+Fastest Time: 12.21
+Slowest Time: 17.87
+Standard Deviation: 01.31
+
+Individual Times:
+1)          (17.87)          F R2 F R F2 D U2 F2 U2 L' U R' F2 U L' D' F L2 R' F' U2 L2 R2 U' F2
+2)          12.98          D2 L2 F L2 R' F' B U2 D' B' F2 R2 L2 F D2 L U2 F' L B' L2 U D B' L'
+3)          15.72          U B' D U2 L R' F' D' L2 U' D2 B2 U2 F2 U' D' F2 R B' L2 R' B2 U' R U'
+4)          13.12          B' L' U' L D2 R2 D2 B' R' L' F U L' D2 F2 D' L2 D2 R' F2 R2 B' L2 F2 B2
+5)          16.74          B2 U D2 F' L' B' D' U2 B' D' R2 B' F' U F' L R2 B F' L2 R2 D U2 B2 L'
+6)          14.84          L2 U2 B2 U2 D' L' D' L2 R2 U' R2 F2 B' D L2 F2 B2 U' B' L2 F2 L D L2 F
+7)          16.01          B' L F B U' L' R2 D R2 U2 L' D F2 L R2 D' L' B2 U' R U F R L' B2
+8)          13.92          B2 R' F' D2 R B2 U' L' R2 B' L' B2 R' F' L2 D B2 R' B2 U2 D L' R2 U B'
+9)          (12.21)          F' R2 L' D2 L' R U' R B2 F R2 F2 R2 F2 L B' F2 L' F L F2 B' U2 R' U'
+10)          14.34          F' U' R' D' B D' B2 F R B' R' F2 R2 F' R' U R2 D B' F' U2 B' F L2 B2
+11)          16.23          B U D2 B' U F2 U' D L U D F L D L D R' D' U' B D B L' B' U2
+12)          15.31          B L' U2 F L' F' L F L' U2 D F B' L2 U' R' D' U R2 B' L2 F' B R' B2
